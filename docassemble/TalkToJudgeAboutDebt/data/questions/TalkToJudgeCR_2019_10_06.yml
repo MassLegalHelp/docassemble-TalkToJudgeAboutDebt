@@ -417,7 +417,7 @@ fields:
 ---
 code: |
   if someone_not_ok:
-    identitytheft_debt
+    identitytheft_debt = True
 ---
 question: |
   Is the court where you are going for this case in the same [county](http://www.mass.gov/guides/courthouses-by-county) where you live?
